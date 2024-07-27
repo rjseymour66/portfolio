@@ -28,6 +28,7 @@ SearchApp.searchButton.addEventListener('click', search);
 
 function search() {
     let searchText = SearchApp.searchField.value;
+    if (searchText == "") { return; }
 
     searchText = searchText
         .split(" ")
