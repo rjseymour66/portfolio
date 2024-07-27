@@ -1,0 +1,38 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Ryan's Portfolio"
+# googleAnalytics = "UA-pg 36"
+
+# pygmentsUseClasses = true
+
+theme = "basic"
+
+Paginate = 10
+
+[params]
+  author = "Ryan Johnson"
+  description = "My portfolio site"
+
+  gh_url = "https://api.github.com/users"
+  gh_user = "rjseymour66"
+
+[permalinks]
+  posts = "posts/:year/:month/:slug/"
+  year = "/posts/:slug/"
+  month = "/posts/:slug/"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tag = "tags"
+  category = "categories"
+
+#### taxonomy ####
+
+#[taxonomies]
+#  category = "categories"
+
+#[taxonomies]
+#  tag = "tags"
+
+#disableKinds = ["taxonomy", "taxonomies"]

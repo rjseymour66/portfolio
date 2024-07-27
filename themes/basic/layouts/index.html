@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<section class="project-list">
+    <h2>Recent project</h2>
+    
+    {{ range first 1 (where .Site.RegularPages "Type" "in" "projects").ByDate.Reverse }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+    
+</section>
+
+{{ .Content }}
+
+{{ end }}

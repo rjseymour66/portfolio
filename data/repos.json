@@ -1,0 +1,124 @@
+{
+  "repos": [
+    {
+      "name": "acme-corporation",
+      "url": "https://github.com/rjseymour66/acme-corporation"
+    },
+    {
+      "name": "advanced-css",
+      "url": "https://github.com/rjseymour66/advanced-css"
+    },
+    {
+      "name": "architecture-patterns-go",
+      "url": "https://github.com/rjseymour66/architecture-patterns-go"
+    },
+    {
+      "name": "automate-boring-stuff",
+      "url": "https://github.com/rjseymour66/automate-boring-stuff"
+    },
+    {
+      "name": "CICD",
+      "url": "https://github.com/rjseymour66/CICD"
+    },
+    {
+      "name": "command-line",
+      "url": "https://github.com/rjseymour66/command-line"
+    },
+    {
+      "name": "computersystems3e",
+      "url": "https://github.com/rjseymour66/computersystems3e"
+    },
+    {
+      "name": "css-boiler",
+      "url": "https://github.com/rjseymour66/css-boiler"
+    },
+    {
+      "name": "css-notes",
+      "url": "https://github.com/rjseymour66/css-notes"
+    },
+    {
+      "name": "css-projects",
+      "url": "https://github.com/rjseymour66/css-projects"
+    },
+    {
+      "name": "css-tiny",
+      "url": "https://github.com/rjseymour66/css-tiny"
+    },
+    {
+      "name": "cybersecurity-bash",
+      "url": "https://github.com/rjseymour66/cybersecurity-bash"
+    },
+    {
+      "name": "ddd-go",
+      "url": "https://github.com/rjseymour66/ddd-go"
+    },
+    {
+      "name": "deep-css",
+      "url": "https://github.com/rjseymour66/deep-css"
+    },
+    {
+      "name": "distributed-log",
+      "url": "https://github.com/rjseymour66/distributed-log"
+    },
+    {
+      "name": "documentation",
+      "url": "https://github.com/rjseymour66/documentation"
+    },
+    {
+      "name": "effective-go",
+      "url": "https://github.com/rjseymour66/effective-go"
+    },
+    {
+      "name": "effectivejava",
+      "url": "https://github.com/rjseymour66/effectivejava"
+    },
+    {
+      "name": "EmployeeManagementSystem",
+      "url": "https://github.com/rjseymour66/EmployeeManagementSystem"
+    },
+    {
+      "name": "go-inpractice",
+      "url": "https://github.com/rjseymour66/go-inpractice"
+    },
+    {
+      "name": "go-notes",
+      "url": "https://github.com/rjseymour66/go-notes"
+    },
+    {
+      "name": "gopl",
+      "url": "https://github.com/rjseymour66/gopl"
+    },
+    {
+      "name": "goreview",
+      "url": "https://github.com/rjseymour66/goreview"
+    },
+    {
+      "name": "greenlight",
+      "url": "https://github.com/rjseymour66/greenlight"
+    },
+    {
+      "name": "helpful_links",
+      "url": "https://github.com/rjseymour66/helpful_links"
+    },
+    {
+      "name": "in-action",
+      "url": "https://github.com/rjseymour66/in-action"
+    },
+    {
+      "name": "interpreter",
+      "url": "https://github.com/rjseymour66/interpreter"
+    },
+    {
+      "name": "JAVA-3010",
+      "url": "https://github.com/rjseymour66/JAVA-3010"
+    },
+    {
+      "name": "Java8",
+      "url": "https://github.com/rjseymour66/Java8"
+    },
+    {
+      "name": "landing-page",
+      "url": "https://github.com/rjseymour66/landing-page"
+    }
+  ]
+}

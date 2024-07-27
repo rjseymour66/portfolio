@@ -1,0 +1,5 @@
+<ul>
+    {{ range .Site.Data.socialmedia.accounts }}
+        <li><a href="{{ .url }}">{{ .name }}</a></li>
+    {{ end }}
+</ul>
