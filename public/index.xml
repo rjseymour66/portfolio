@@ -1,1 +1,151 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ryan's Portfolio</title><link>http://example.org/</link><description>Recent content on Ryan's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>http://example.org/about/</link><pubDate>Tue, 25 Jun 2024 23:45:46 -0400</pubDate><guid>http://example.org/about/</guid><description>This is my About page.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan&#39;s Portfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ryan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2024 08:57:46 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Vacation</title>
+      <link>http://example.org/posts/2024/08/my-vacation/</link>
+      <pubDate>Sat, 17 Aug 2024 08:57:46 -0400</pubDate>
+      
+      <guid>http://example.org/posts/2024/08/my-vacation/</guid>
+      <description>Here are pictures from my recent trip to South Dakota.
+Mount Rushmore The Badlands Bison at Custer National Park </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://example.org/search/</link>
+      <pubDate>Wed, 10 Jul 2024 23:44:03 -0400</pubDate>
+      
+      <guid>http://example.org/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>http://example.org/posts/2024/07/third-post/</link>
+      <pubDate>Sun, 07 Jul 2024 23:01:55 -0400</pubDate>
+      
+      <guid>http://example.org/posts/2024/07/third-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At augue eget arcu dictum varius duis at. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Urna et pharetra pharetra massa massa ultricies mi. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Convallis convallis tellus id interdum.
+Morbi enim nunc faucibus a pellentesque sit amet. Erat pellentesque adipiscing commodo elit. At urna condimentum mattis pellentesque id nibh tortor.</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://example.org/posts/2024/07/second-post/</link>
+      <pubDate>Sun, 07 Jul 2024 22:14:33 -0400</pubDate>
+      
+      <guid>http://example.org/posts/2024/07/second-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At augue eget arcu dictum varius duis at. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Urna et pharetra pharetra massa massa ultricies mi. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Convallis convallis tellus id interdum.
+Morbi enim nunc faucibus a pellentesque sit amet. Erat pellentesque adipiscing commodo elit. At urna condimentum mattis pellentesque id nibh tortor.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/2024/07/first-post/</link>
+      <pubDate>Sun, 07 Jul 2024 08:52:04 -0400</pubDate>
+      
+      <guid>http://example.org/posts/2024/07/first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At augue eget arcu dictum varius duis at. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Urna et pharetra pharetra massa massa ultricies mi. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Convallis convallis tellus id interdum. Consectetur purus ut faucibus pulvinar elementum integer enim neque volutpat. Viverra tellus in hac habitasse.</description>
+    </item>
+    
+    <item>
+      <title>Opensource</title>
+      <link>http://example.org/opensource/</link>
+      <pubDate>Sun, 30 Jun 2024 08:49:45 -0400</pubDate>
+      
+      <guid>http://example.org/opensource/</guid>
+      <description>My Open Source Software on GitHub:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Tue, 25 Jun 2024 23:58:40 -0400</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Here is some contact information.</description>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Tue, 25 Jun 2024 23:55:58 -0400</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description>This is a test page to make sure I understand how to generate docs.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Tue, 25 Jun 2024 23:45:46 -0400</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>This is my About page.</description>
+    </item>
+    
+    <item>
+      <title>Awesomeco</title>
+      <link>http://example.org/projects/awesomeco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/awesomeco/</guid>
+      <description>Summary of the Awesomeco project</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/presentations/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/presentations/first/</guid>
+      <description>Here is a description of one of my presentations!</description>
+    </item>
+    
+    <item>
+      <title>Jabberwocky</title>
+      <link>http://example.org/projects/jabberwocky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/jabberwocky/</guid>
+      <description>Summary of the Jabberwocky project</description>
+    </item>
+    
+    <item>
+      <title>Linkitivity</title>
+      <link>http://example.org/projects/linkitivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/linkitivity/</guid>
+      <description>Summary of the Linkitivity project</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/presentations/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/presentations/second/</guid>
+      <description>Here is a description of one of my presentations!</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>http://example.org/presentations/third/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/presentations/third/</guid>
+      <description>Here is a description of one of my presentations!</description>
+    </item>
+    
+  </channel>
+</rss>

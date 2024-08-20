@@ -13,18 +13,19 @@
     {{- end -}}">
 
     {{ with .Params.keywords }}
-        <meta name="keywords" content="{{ delimit . ", " }}">
+    <meta name="keywords" content="{{ delimit . " , " }}">
     {{ end }}
 
     <title>
-    {{- if .Page.IsHome -}}
+        {{- if .Page.IsHome -}}
         {{ .Site.Title }}
-    {{- else -}}
+        {{- else -}}
         {{ .Title }} - {{ .Site.Title }}
-    {{- end -}}
+        {{- end -}}
     </title>
     {{ range .AlternativeOutputFormats -}}
-        {{- $link := `<link rel="%s" type="%s" href="%s" title="%s">` -}}
+        {{- $link := `
+        <link rel="%s" type="%s" href="%s" title="%s">` -}}
         {{- $title := printf "%s - %s" $.Page.Title $.Site.Title -}}
 
         {{- if $.Page.IsHome -}}
@@ -33,5 +34,6 @@
 
         {{ printf $link .Rel .MediaType.Type .Permalink $title | safeHTML }}
     {{- end }}
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    {{ $css := resources.Get "css/style.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 </head>
