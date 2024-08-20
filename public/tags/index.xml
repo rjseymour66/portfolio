@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Ryan's Portfolio</title><link>http://example.org/tags/</link><description>Recent content in Tags on Ryan's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ryan&#39;s Portfolio</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Ryan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2024 09:39:41 -0400</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>html</title>
+      <link>http://example.org/tags/html/</link>
+      <pubDate>Sun, 07 Jul 2024 23:01:55 -0400</pubDate>
+      
+      <guid>http://example.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://example.org/tags/software/</link>
+      <pubDate>Sun, 07 Jul 2024 23:01:55 -0400</pubDate>
+      
+      <guid>http://example.org/tags/software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
